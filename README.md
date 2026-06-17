@@ -126,6 +126,20 @@ timeline
 
 ---
 
+## 🐍 Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake.svg" />
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0066ff,100:0a2540&height=120&section=footer" alt="footer"/>
