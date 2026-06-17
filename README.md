@@ -8,9 +8,9 @@
 
 <br/>
 
-<a href="https://instagram.com/mahesh.biz"><img src="https://img.shields.io/badge/Instagram-12k%20followers-3DD66F?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=1a1510" alt="instagram"/></a>
-<a href="https://instagram.com/mahesh.biz"><img src="https://img.shields.io/badge/%40mahesh.biz-follow-1a1510?style=for-the-badge&labelColor=1a1510&color=6b4a2b" alt="handle"/></a>
-<img src="https://komarev.com/ghpvc/?username=maheshwarmurugesan&style=for-the-badge&color=3DD66F&labelColor=1a1510&label=PROFILE+VIEWS" alt="views"/>
+<a href="https://x.com/maheshbiz_"><img src="https://img.shields.io/badge/X-Follow-3DD66F?style=for-the-badge&logo=x&logoColor=000000&labelColor=1a1510" alt="X"/></a>
+<a href="https://instagram.com/mahesh.biz"><img src="https://img.shields.io/badge/Instagram-Follow-3DD66F?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=1a1510" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/maheshwarmurugesan/"><img src="https://img.shields.io/badge/LinkedIn-Follow-3DD66F?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=1a1510" alt="LinkedIn"/></a>
 
 <br/><br/>
 
@@ -71,19 +71,6 @@ class MaheshwarMurugesan:
 
 <br/>
 
-## Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maheshwarmurugesan&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=3DD66F&icon_color=3DD66F&text_color=c9b896&bg_color=1a1510" alt="stats"/>
-<img height="170" src="https://streak-stats.demolab.com/?user=maheshwarmurugesan&hide_border=true&background=1a1510&stroke=3DD66F&ring=3DD66F&fire=3DD66F&currStreakLabel=3DD66F&sideLabels=c9b896&dates=6b4a2b" alt="streak"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshwarmurugesan&layout=compact&count_private=true&hide_border=true&title_color=3DD66F&text_color=c9b896&bg_color=1a1510&langs_count=8" alt="langs"/>
-
-</div>
-
-<br/>
-
 ## Activity
 
 <div align="center">
@@ -104,35 +91,25 @@ class MaheshwarMurugesan:
 
 <br/>
 
-## Build timeline
+## The build, as a treatment train
+
+> Influent in, signed effluent out — each stage is a season of building.
 
 ```mermaid
-timeline
-    title What I've been building
-    2026 Q1 : College-counseling sites : Conduit MVP
-    2026 Q2 : Hydrosphere 3D globe : Loci real-estate sourcing : Effluent academy
-    2026 Q2+ : Effluent compliance pipeline : Dev platform : Content engine
-    2026 Now : ml-biocompute-energy research lab : SD5/Tiburon SMR demo
+%%{init: {'theme':'base','themeVariables':{
+  'primaryColor':'#1a1510','primaryTextColor':'#e8e0d0','primaryBorderColor':'#3DD66F',
+  'lineColor':'#3DD66F','fontFamily':'monospace','clusterBkg':'#0d0b07','clusterBorder':'#2a7a3f'}}}%%
+flowchart LR
+    IN([" INFLUENT<br/>2026 Q1<br/>college sites · Conduit MVP "]):::raw
+    PRI[" PRIMARY<br/>2026 Q2<br/>Hydrosphere · Loci · Academy "]:::s
+    AER[" AERATION<br/>2026 Q2+<br/>Effluent pipeline · Dev platform "]:::s
+    CLAR[" CLARIFIER<br/>2026 now<br/>ml-biocompute-energy · SD5 SMR demo "]:::s
+    OUT([" EFFLUENT<br/>next<br/>autonomous DMR/SMR filing "]):::out
+    IN --> PRI --> AER --> CLAR --> OUT
+    classDef raw fill:#3a2a18,stroke:#6b4a2b,color:#e8e0d0;
+    classDef s fill:#1a1510,stroke:#3DD66F,color:#e8e0d0;
+    classDef out fill:#143d23,stroke:#3DD66F,color:#7cf2a0;
 ```
-
-<br/>
-
-## Featured
-
-<div align="center">
-
-<a href="https://github.com/maheshwarmurugesan/hydrosphere">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheshwarmurugesan&repo=hydrosphere&hide_border=true&title_color=3DD66F&icon_color=3DD66F&text_color=c9b896&bg_color=1a1510" alt="hydrosphere"/>
-</a>
-<a href="https://github.com/maheshwarmurugesan/instagram-unfollow-maker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheshwarmurugesan&repo=instagram-unfollow-maker&hide_border=true&title_color=3DD66F&icon_color=3DD66F&text_color=c9b896&bg_color=1a1510" alt="instagram-unfollow-maker"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/maheshwarmurugesan/ml-biocompute-energy"><img src="https://img.shields.io/badge/ml--biocompute--energy-private%20research%20lab-1a1510?style=for-the-badge&labelColor=1a1510&color=3DD66F&logo=github" alt="ml-biocompute-energy"/></a>
-
-</div>
 
 <br/>
 
