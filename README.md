@@ -12,6 +12,17 @@
 <a href="https://instagram.com/mahesh.biz"><img src="https://img.shields.io/badge/%40mahesh.biz-follow-1a1510?style=for-the-badge&labelColor=1a1510&color=6b4a2b" alt="handle"/></a>
 <img src="https://komarev.com/ghpvc/?username=maheshwarmurugesan&style=for-the-badge&color=3DD66F&labelColor=1a1510&label=PROFILE+VIEWS" alt="views"/>
 
+<br/><br/>
+
+<sub><b>BACKED BY</b></sub>
+
+<a href="https://svangel.com"><img src="https://img.shields.io/badge/SV%20Angel-1a1510?style=for-the-badge&labelColor=1a1510&color=3DD66F" alt="SV Angel"/></a>
+<a href="https://susaventures.com"><img src="https://img.shields.io/badge/Susa%20Ventures-1a1510?style=for-the-badge&labelColor=1a1510&color=3DD66F" alt="Susa Ventures"/></a>
+<a href="https://browdercapital.com"><img src="https://img.shields.io/badge/Browder%20Capital-1a1510?style=for-the-badge&labelColor=1a1510&color=3DD66F" alt="Browder Capital"/></a>
+<a href="https://pareto.holdings"><img src="https://img.shields.io/badge/Pareto%20Holdings-1a1510?style=for-the-badge&labelColor=1a1510&color=3DD66F" alt="Pareto Holdings"/></a>
+<a href="https://superstate.co"><img src="https://img.shields.io/badge/Reid%20Cuming%20·%20Superstate-1a1510?style=for-the-badge&labelColor=1a1510&color=3DD66F" alt="Reid Cuming"/></a>
+<img src="https://img.shields.io/badge/HF0%20·%20Lightyear-1a1510?style=for-the-badge&labelColor=1a1510&color=6b4a2b" alt="HF0 Lightyear"/>
+
 </div>
 
 <br/>
@@ -19,12 +30,14 @@
 ## whoami
 
 ```python
-class Mahesh:
+class MaheshwarMurugesan:
     def __init__(self):
         self.role         = "CEO & Co-founder @ Effluent"
         self.company      = "The Wastewater Intelligence Company"
-        self.mission      = "Make environmental compliance autonomous"
-        self.now_building = ["Effluent — water-treatment compliance pipeline",
+        self.mission      = "Autonomous environmental compliance for water"
+        self.education     = "B.S. CS + Finance, University of Michigan (Ross)"
+        self.residency    = "Lightyear (HF0) — youngest affiliated founder"
+        self.now_building = ["Effluent — five-layer compliance pipeline",
                              "ml-biocompute-energy — research lab"]
         self.interests    = ["multivariate time-series anomaly detection",
                              "biocomputation", "energy / process optimization",
@@ -32,7 +45,8 @@ class Mahesh:
         self.philosophy   = "Tracer bullets. Crash early. Find the bug once."
 
     def current_focus(self):
-        return "SCADA -> harmonized readings -> autonomous DMR/SMR submission"
+        # raw sensor reading -> signed regulatory submission
+        return "SCADA -> harmonized readings -> autonomous DMR/SMR filing"
 ```
 
 <br/>
@@ -69,7 +83,7 @@ class Mahesh:
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=maheshwarmurugesan&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=3DD66F&icon_color=3DD66F&text_color=c9b896&bg_color=1a1510" alt="stats"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshwarmurugesan&hide_border=true&background=1a1510&stroke=3DD66F&ring=3DD66F&fire=3DD66F&currStreakLabel=3DD66F&sideLabels=c9b896&dates=6b4a2b" alt="streak"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=maheshwarmurugesan&hide_border=true&background=1a1510&stroke=3DD66F&ring=3DD66F&fire=3DD66F&currStreakLabel=3DD66F&sideLabels=c9b896&dates=6b4a2b" alt="streak"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshwarmurugesan&layout=compact&count_private=true&hide_border=true&title_color=3DD66F&text_color=c9b896&bg_color=1a1510&langs_count=8" alt="langs"/>
 
@@ -117,9 +131,13 @@ timeline
 <a href="https://github.com/maheshwarmurugesan/hydrosphere">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheshwarmurugesan&repo=hydrosphere&hide_border=true&title_color=3DD66F&icon_color=3DD66F&text_color=c9b896&bg_color=1a1510" alt="hydrosphere"/>
 </a>
-<a href="https://github.com/maheshwarmurugesan/ml-biocompute-energy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheshwarmurugesan&repo=ml-biocompute-energy&hide_border=true&title_color=3DD66F&icon_color=3DD66F&text_color=c9b896&bg_color=1a1510" alt="ml-biocompute-energy"/>
+<a href="https://github.com/maheshwarmurugesan/instagram-unfollow-maker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheshwarmurugesan&repo=instagram-unfollow-maker&hide_border=true&title_color=3DD66F&icon_color=3DD66F&text_color=c9b896&bg_color=1a1510" alt="instagram-unfollow-maker"/>
 </a>
+
+<br/><br/>
+
+<a href="https://github.com/maheshwarmurugesan/ml-biocompute-energy"><img src="https://img.shields.io/badge/ml--biocompute--energy-private%20research%20lab-1a1510?style=for-the-badge&labelColor=1a1510&color=3DD66F&logo=github" alt="ml-biocompute-energy"/></a>
 
 </div>
 
