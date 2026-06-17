@@ -14,14 +14,7 @@
 
 <br/><br/>
 
-<sub><b>BACKED BY</b></sub>
-
-<a href="https://svangel.com"><img src="https://img.shields.io/badge/SV%20Angel-1a1510?style=for-the-badge&labelColor=1a1510&color=3DD66F" alt="SV Angel"/></a>
-<a href="https://susaventures.com"><img src="https://img.shields.io/badge/Susa%20Ventures-1a1510?style=for-the-badge&labelColor=1a1510&color=3DD66F" alt="Susa Ventures"/></a>
-<a href="https://browdercapital.com"><img src="https://img.shields.io/badge/Browder%20Capital-1a1510?style=for-the-badge&labelColor=1a1510&color=3DD66F" alt="Browder Capital"/></a>
-<a href="https://pareto.holdings"><img src="https://img.shields.io/badge/Pareto%20Holdings-1a1510?style=for-the-badge&labelColor=1a1510&color=3DD66F" alt="Pareto Holdings"/></a>
-<a href="https://superstate.co"><img src="https://img.shields.io/badge/Reid%20Cuming%20·%20Superstate-1a1510?style=for-the-badge&labelColor=1a1510&color=3DD66F" alt="Reid Cuming"/></a>
-<img src="https://img.shields.io/badge/HF0%20·%20Lightyear-1a1510?style=for-the-badge&labelColor=1a1510&color=6b4a2b" alt="HF0 Lightyear"/>
+<img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/backed.png?v=1" alt="Backed by SV Angel, Susa Ventures, Browder Capital, Pareto Holdings, Superstate (Reid Cuming), HF0 · Lightyear" width="100%"/>
 
 </div>
 
