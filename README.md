@@ -131,9 +131,9 @@ timeline
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake.svg" />
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake.svg?v=2" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake.svg?v=2" />
 </picture>
 
 </div>
