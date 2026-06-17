@@ -91,25 +91,13 @@ class MaheshwarMurugesan:
 
 <br/>
 
-## The build, as a treatment train
+## Process overview
 
-> Influent in, signed effluent out — each stage is a season of building.
+<div align="center">
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{
-  'primaryColor':'#1a1510','primaryTextColor':'#e8e0d0','primaryBorderColor':'#3DD66F',
-  'lineColor':'#3DD66F','fontFamily':'monospace','clusterBkg':'#0d0b07','clusterBorder':'#2a7a3f'}}}%%
-flowchart LR
-    IN([" INFLUENT<br/>2026 Q1<br/>college sites · Conduit MVP "]):::raw
-    PRI[" PRIMARY<br/>2026 Q2<br/>Hydrosphere · Loci · Academy "]:::s
-    AER[" AERATION<br/>2026 Q2+<br/>Effluent pipeline · Dev platform "]:::s
-    CLAR[" CLARIFIER<br/>2026 now<br/>ml-biocompute-energy · SD5 SMR demo "]:::s
-    OUT([" EFFLUENT<br/>next<br/>autonomous DMR/SMR filing "]):::out
-    IN --> PRI --> AER --> CLAR --> OUT
-    classDef raw fill:#3a2a18,stroke:#6b4a2b,color:#e8e0d0;
-    classDef s fill:#1a1510,stroke:#3DD66F,color:#e8e0d0;
-    classDef out fill:#143d23,stroke:#3DD66F,color:#7cf2a0;
-```
+<img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/process.png?v=1" alt="Process overview — Screening, Grit, Aeration, Secondary, Disinfection, Outfall" width="100%"/>
+
+</div>
 
 <br/>
 
