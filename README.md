@@ -12,9 +12,9 @@
 
 <br/><br/>
 
-<a href="https://x.com/maheshbiz_"><img src="https://img.shields.io/badge/Follow_on_X-3DD66F?style=for-the-badge&logo=x&logoColor=0d1117&labelColor=3DD66F&color=0d1117" alt="X"/></a>
-<a href="https://instagram.com/mahesh.biz"><img src="https://img.shields.io/badge/Follow_on_Instagram-3DD66F?style=for-the-badge&logo=instagram&logoColor=0d1117&labelColor=3DD66F&color=0d1117" alt="Instagram"/></a>
-<a href="https://www.linkedin.com/in/maheshwarmurugesan/"><img src="https://img.shields.io/badge/Follow_on_LinkedIn-3DD66F?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=3DD66F&color=0d1117" alt="LinkedIn"/></a>
+<a href="https://x.com/maheshbiz_"><img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X"/></a>
+<a href="https://instagram.com/mahesh.biz"><img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/maheshwarmurugesan/"><img src="https://img.shields.io/badge/Follow_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/></a>
 
 <br/><br/>
 
