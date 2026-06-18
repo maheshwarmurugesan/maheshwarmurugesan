@@ -74,7 +74,7 @@ class MaheshwarMurugesan:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/recognition.png?v=1" alt="Recognition — IEEE NANO 2025, Nature Conference Tianjin, Stockholm Junior Water Prize, NC One Water Award, NCSEF, USPTO Provisional Patent, NC State SEM/AIF, RTNN Grant, Regeneron NCSEF" width="100%"/>
+<img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/recognition.png?v=2" alt="Recognition — IEEE NANO 2025, Nature Conference Tianjin, Stockholm Junior Water Prize, NC One Water Award, NCSEF, USPTO Provisional Patent, NC State SEM/AIF, RTNN Grant, Regeneron NCSEF" width="100%"/>
 
 </div>
 
