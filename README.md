@@ -8,7 +8,7 @@
 
 <br/>
 
-<img alt="contributions, flushed" src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/poop.gif?v=1" width="100%"/>
+<img alt="contributions, flushed" src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/poop.gif?v=2" width="100%"/>
 
 <br/><br/>
 
@@ -34,7 +34,7 @@ Finance, University of Michigan Ross School of Business. Selected by **Lightyear
 
 **Interested in:** multivariate time-series anomaly detection · biocomputation · energy / process optimization · control systems · go-to-market.
 
-*Follower of Christ ✝*
+*Follower of Christ* ✠
 
 <br/>
 
