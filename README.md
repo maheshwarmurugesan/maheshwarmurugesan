@@ -8,17 +8,17 @@
 
 <br/>
 
-<a href="https://x.com/maheshbiz_"><img src="https://img.shields.io/badge/X-Follow-3DD66F?style=for-the-badge&logo=x&logoColor=000000&labelColor=1a1510" alt="X"/></a>
-<a href="https://instagram.com/mahesh.biz"><img src="https://img.shields.io/badge/Instagram-Follow-3DD66F?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=1a1510" alt="Instagram"/></a>
-<a href="https://www.linkedin.com/in/maheshwarmurugesan/"><img src="https://img.shields.io/badge/LinkedIn-Follow-3DD66F?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=1a1510" alt="LinkedIn"/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake-dark.svg?v=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake.svg?v=5" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake-dark.svg?v=5" width="100%"/>
+</picture>
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake-dark.svg?v=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake.svg?v=4" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake-dark.svg?v=4" width="100%"/>
-</picture>
+<a href="https://x.com/maheshbiz_"><img src="https://img.shields.io/badge/X-Follow-3DD66F?style=for-the-badge&logo=x&logoColor=000000&labelColor=1a1510" alt="X"/></a>
+<a href="https://instagram.com/mahesh.biz"><img src="https://img.shields.io/badge/Instagram-Follow-3DD66F?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=1a1510" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/maheshwarmurugesan/"><img src="https://img.shields.io/badge/LinkedIn-Follow-3DD66F?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=1a1510" alt="LinkedIn"/></a>
 
 <br/><br/>
 
