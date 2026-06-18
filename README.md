@@ -12,15 +12,19 @@
 
 <br/><br/>
 
-<table border="0" cellspacing="0"><tr>
-<td align="center"><sub>&nbsp;</sub><br><a href="https://x.com/maheshbiz_"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a></td>
-<td align="center"><sub><b>12k followers</b></sub><br><a href="https://instagram.com/mahesh.biz"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a></td>
-<td align="center"><sub><b>10k followers</b></sub><br><a href="https://www.linkedin.com/in/maheshwarmurugesan/"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
+<table border="0" cellspacing="18" cellpadding="0"><tr>
+<td align="center"><sub>&nbsp;</sub></td>
+<td align="center"><sub><b>12k followers</b></sub></td>
+<td align="center"><sub><b>10k followers</b></sub></td>
+</tr><tr>
+<td align="center"><a href="https://x.com/maheshbiz_"><img src="https://api.iconify.design/ri:twitter-x-fill.svg?color=white" width="42" alt="X"/></a></td>
+<td align="center"><a href="https://instagram.com/mahesh.biz"><img src="https://api.iconify.design/mdi:instagram.svg?color=%23E4405F" width="50" alt="Instagram"/></a></td>
+<td align="center"><a href="https://www.linkedin.com/in/maheshwarmurugesan/"><img src="https://api.iconify.design/mdi:linkedin.svg?color=%230A66C2" width="50" alt="LinkedIn"/></a></td>
 </tr></table>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/backed.png?v=1" alt="Backed by SV Angel, Susa Ventures, Browder Capital, Pareto Holdings, Superstate (Reid Cuming), HF0 · Lightyear" width="100%"/>
+<img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/backed.png?v=2" alt="Backed by SV Angel, Susa Ventures, Browder Capital, Pareto Holdings, Superstate (Reid Cuming), HF0 · Lightyear" width="100%"/>
 
 </div>
 
