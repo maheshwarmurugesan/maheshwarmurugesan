@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=600&color=3DD66F&background=00000000&center=true&vCenter=true&width=520&height=40&lines=FOLLOW+IF+YOU+CAN" alt="follow if you can" />
+<img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/follow.png?v=1" alt="follow if you can" height="22"/>
 
 <img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/social.svg?v=2" alt="X · Instagram · LinkedIn" width="70%"/>
 
