@@ -30,7 +30,7 @@ B.S. CS + Finance, University of Michigan (Ross) · Lightyear (HF0), youngest af
 
 **Interested in** — multivariate time-series anomaly detection · biocomputation · energy / process optimization · control systems · go-to-market.
 
-*Tracer bullets. Crash early. Find the bug once.*
+*Follower of Christ.*
 
 <br/>
 
@@ -60,8 +60,6 @@ B.S. CS + Finance, University of Michigan (Ross) · Lightyear (HF0), youngest af
 
 <br/>
 
-
-## 💩
 
 <div align="center">
 
