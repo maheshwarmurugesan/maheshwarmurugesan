@@ -12,9 +12,9 @@
 
 <br/><br/>
 
-<sub><b>follow if you can</b></sub>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=600&color=3DD66F&background=00000000&center=true&vCenter=true&width=520&height=40&lines=FOLLOW+IF+YOU+CAN" alt="follow if you can" />
 
-<img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/social.svg?v=1" alt="X · Instagram · LinkedIn" width="70%"/>
+<img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/social.svg?v=2" alt="X · Instagram · LinkedIn" width="70%"/>
 
 <sub><a href="https://x.com/maheshbiz_">X</a> · <a href="https://instagram.com/mahesh.biz">Instagram</a> · <a href="https://www.linkedin.com/in/maheshwarmurugesan/">LinkedIn</a></sub>
 
@@ -23,20 +23,6 @@
 <img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/backed.png?v=2" alt="Backed by SV Angel, Susa Ventures, Browder Capital, Pareto Holdings, Superstate (Reid Cuming), HF0 · Lightyear" width="100%"/>
 
 </div>
-
-<br/>
-
-## whoami
-
-**CEO & Co-founder @ Effluent.** The Wastewater Intelligence Company. Building autonomous environmental compliance for water: SCADA → harmonized readings → signed DMR/SMR filing.
-
-Finance, University of Michigan Ross School of Business. Selected by **Lightyear Residency** (incubated by HF0) for my first venture, youngest founder affiliated. **Susa Scout.** Wastewater researcher.
-
-**Now building:** Effluent's five-layer compliance pipeline · ml-biocompute-energy research lab.
-
-**Interested in:** multivariate time-series anomaly detection · biocomputation · energy / process optimization · control systems · go-to-market.
-
-*Follower of Christ* ✠
 
 <br/>
 
