@@ -12,6 +12,8 @@
 
 <br/><br/>
 
+<sub><b>follow if you can</b></sub>
+
 <img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/social.svg?v=1" alt="X · Instagram · LinkedIn" width="70%"/>
 
 <sub><a href="https://x.com/maheshbiz_">X</a> · <a href="https://instagram.com/mahesh.biz">Instagram</a> · <a href="https://www.linkedin.com/in/maheshwarmurugesan/">LinkedIn</a></sub>
