@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/banner.png" alt="Effluent — The Wastewater Intelligence Company" width="100%"/>
+<img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/banner.png" alt="Effluent, The Wastewater Intelligence Company" width="100%"/>
 
 <br/><br/>
 
@@ -8,11 +8,7 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake-dark.svg?v=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake.svg?v=6" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake-dark.svg?v=6" width="100%"/>
-</picture>
+<img alt="contributions, flushed" src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/poop.gif?v=1" width="100%"/>
 
 <br/><br/>
 
@@ -30,31 +26,31 @@
 
 ## whoami
 
-**CEO & Co-founder @ Effluent** — The Wastewater Intelligence Company. Building autonomous environmental compliance for water: SCADA → harmonized readings → signed DMR/SMR filing.
+**CEO & Co-founder @ Effluent.** The Wastewater Intelligence Company. Building autonomous environmental compliance for water: SCADA → harmonized readings → signed DMR/SMR filing.
 
-Computer Science + Finance, University of Michigan Ross School of Business. Selected by **Lightyear Residency** (incubated by HF0) for my first venture — youngest founder affiliated. **Susa Scout.** Wastewater researcher.
+Finance, University of Michigan Ross School of Business. Selected by **Lightyear Residency** (incubated by HF0) for my first venture, youngest founder affiliated. **Susa Scout.** Wastewater researcher.
 
-**Now building** — Effluent's five-layer compliance pipeline · ml-biocompute-energy research lab.
+**Now building:** Effluent's five-layer compliance pipeline · ml-biocompute-energy research lab.
 
-**Interested in** — multivariate time-series anomaly detection · biocomputation · energy / process optimization · control systems · go-to-market.
+**Interested in:** multivariate time-series anomaly detection · biocomputation · energy / process optimization · control systems · go-to-market.
 
-*Follower of Christ.*
+*Follower of Christ ✝*
 
 <br/>
 
 ## Stack
 
-![Python](https://img.shields.io/badge/Python-1a1510?style=flat-square&logo=python&logoColor=3DD66F)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1510?style=flat-square&logo=typescript&logoColor=3DD66F)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1510?style=flat-square&logo=pytorch&logoColor=3DD66F)
-![Next.js](https://img.shields.io/badge/Next.js-1a1510?style=flat-square&logo=nextdotjs&logoColor=3DD66F)
-![React](https://img.shields.io/badge/React-1a1510?style=flat-square&logo=react&logoColor=3DD66F)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1510?style=flat-square&logo=postgresql&logoColor=3DD66F)
-![TimescaleDB](https://img.shields.io/badge/TimescaleDB-1a1510?style=flat-square&logo=timescale&logoColor=3DD66F)
-![Drizzle](https://img.shields.io/badge/Drizzle-1a1510?style=flat-square&logo=drizzle&logoColor=3DD66F)
-![Three.js](https://img.shields.io/badge/Three.js-1a1510?style=flat-square&logo=threedotjs&logoColor=3DD66F)
-![Docker](https://img.shields.io/badge/Docker-1a1510?style=flat-square&logo=docker&logoColor=3DD66F)
-![Celery](https://img.shields.io/badge/Celery-1a1510?style=flat-square&logo=celery&logoColor=3DD66F)
+![Python](https://img.shields.io/badge/Python-1a1510?style=for-the-badge&logo=python&logoColor=3DD66F&labelColor=1a1510)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1510?style=for-the-badge&logo=typescript&logoColor=3DD66F&labelColor=1a1510)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1510?style=for-the-badge&logo=pytorch&logoColor=3DD66F&labelColor=1a1510)
+![Next.js](https://img.shields.io/badge/Next.js-1a1510?style=for-the-badge&logo=nextdotjs&logoColor=3DD66F&labelColor=1a1510)
+![React](https://img.shields.io/badge/React-1a1510?style=for-the-badge&logo=react&logoColor=3DD66F&labelColor=1a1510)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1510?style=for-the-badge&logo=postgresql&logoColor=3DD66F&labelColor=1a1510)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-1a1510?style=for-the-badge&logo=timescale&logoColor=3DD66F&labelColor=1a1510)
+![Drizzle](https://img.shields.io/badge/Drizzle-1a1510?style=for-the-badge&logo=drizzle&logoColor=3DD66F&labelColor=1a1510)
+![Three.js](https://img.shields.io/badge/Three.js-1a1510?style=for-the-badge&logo=threedotjs&logoColor=3DD66F&labelColor=1a1510)
+![Docker](https://img.shields.io/badge/Docker-1a1510?style=for-the-badge&logo=docker&logoColor=3DD66F&labelColor=1a1510)
+![Celery](https://img.shields.io/badge/Celery-1a1510?style=for-the-badge&logo=celery&logoColor=3DD66F&labelColor=1a1510)
 
 <br/>
 
@@ -62,7 +58,7 @@ Computer Science + Finance, University of Michigan Ross School of Business. Sele
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/recognition.png?v=2" alt="Recognition — IEEE NANO 2025, Nature Conference Tianjin, Stockholm Junior Water Prize, NC One Water Award, NCSEF, USPTO Provisional Patent, NC State SEM/AIF, RTNN Grant, Regeneron NCSEF" width="100%"/>
+<img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/recognition.png?v=2" alt="Recognition: IEEE NANO 2025, Nature Conference Tianjin, Stockholm Junior Water Prize, NC One Water Award, NCSEF, USPTO Provisional Patent, NC State SEM/AIF, RTNN Grant, Regeneron NCSEF" width="100%"/>
 
 </div>
 
