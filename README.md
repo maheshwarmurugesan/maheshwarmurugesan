@@ -12,15 +12,13 @@
 
 <br/><br/>
 
-<table border="0" cellspacing="18" cellpadding="0"><tr>
-<td align="center"><sub>&nbsp;</sub></td>
-<td align="center"><sub><b>12k followers</b></sub></td>
-<td align="center"><sub><b>10k followers</b></sub></td>
-</tr><tr>
-<td align="center"><a href="https://x.com/maheshbiz_"><img src="https://api.iconify.design/ri:twitter-x-fill.svg?color=white" width="42" alt="X"/></a></td>
-<td align="center"><a href="https://instagram.com/mahesh.biz"><img src="https://api.iconify.design/mdi:instagram.svg?color=%23E4405F" width="50" alt="Instagram"/></a></td>
-<td align="center"><a href="https://www.linkedin.com/in/maheshwarmurugesan/"><img src="https://api.iconify.design/mdi:linkedin.svg?color=%230A66C2" width="50" alt="LinkedIn"/></a></td>
-</tr></table>
+<sub><b>follow</b></sub>
+
+<a href="https://x.com/maheshbiz_"><img src="https://api.iconify.design/ri:twitter-x-fill.svg?color=white" width="42" alt="X"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/mahesh.biz"><img src="https://api.iconify.design/mdi:instagram.svg?color=%23E4405F" width="48" alt="Instagram"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/maheshwarmurugesan/"><img src="https://api.iconify.design/mdi:linkedin.svg?color=%230A66C2" width="48" alt="LinkedIn"/></a>
 
 <br/><br/>
 
