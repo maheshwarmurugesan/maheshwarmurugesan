@@ -60,16 +60,6 @@ class MaheshwarMurugesan:
 
 <br/>
 
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshwarmurugesan&bg_color=1a1510&color=3DD66F&line=3DD66F&point=c9b896&area=true&hide_border=true" alt="activity graph"/>
-
-</div>
-
-<br/>
-
 ## Recognition
 
 <div align="center">
