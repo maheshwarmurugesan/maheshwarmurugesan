@@ -12,9 +12,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/follow.png?v=1" alt="follow if you can" height="22"/>
-
-<img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/social.svg?v=2" alt="X · Instagram · LinkedIn" width="70%"/>
+<img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/social.svg?v=3" alt="X · Instagram · LinkedIn" width="70%"/>
 
 <sub><a href="https://x.com/maheshbiz_">X</a> · <a href="https://instagram.com/mahesh.biz">Instagram</a> · <a href="https://www.linkedin.com/in/maheshwarmurugesan/">LinkedIn</a></sub>
 
