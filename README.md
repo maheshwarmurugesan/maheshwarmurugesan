@@ -8,13 +8,15 @@
 
 <br/>
 
-<img alt="contributions, flushed" src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/poop.gif?v=3" width="100%"/>
+<img alt="contributions, flushed" src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/poop.gif?v=4" width="100%"/>
 
 <br/><br/>
 
-<a href="https://x.com/maheshbiz_"><img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X"/></a>
-<a href="https://instagram.com/mahesh.biz"><img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/></a>
-<a href="https://www.linkedin.com/in/maheshwarmurugesan/"><img src="https://img.shields.io/badge/Follow_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/></a>
+<table border="0" cellspacing="0"><tr>
+<td align="center"><sub>&nbsp;</sub><br><a href="https://x.com/maheshbiz_"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a></td>
+<td align="center"><sub><b>12k followers</b></sub><br><a href="https://instagram.com/mahesh.biz"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a></td>
+<td align="center"><sub><b>10k followers</b></sub><br><a href="https://www.linkedin.com/in/maheshwarmurugesan/"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
+</tr></table>
 
 <br/><br/>
 
