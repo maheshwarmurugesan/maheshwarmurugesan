@@ -8,13 +8,17 @@
 
 <br/>
 
-<img alt="contributions, flushed" src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/poop.svg?v=1" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake-dark.svg?v=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake.svg?v=6" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake-dark.svg?v=6" width="100%"/>
+</picture>
 
 <br/><br/>
 
-<a href="https://x.com/maheshbiz_"><img src="https://img.shields.io/badge/X-Follow-3DD66F?style=for-the-badge&logo=x&logoColor=000000&labelColor=1a1510" alt="X"/></a>
-<a href="https://instagram.com/mahesh.biz"><img src="https://img.shields.io/badge/Instagram-Follow-3DD66F?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=1a1510" alt="Instagram"/></a>
-<a href="https://www.linkedin.com/in/maheshwarmurugesan/"><img src="https://img.shields.io/badge/LinkedIn-Follow-3DD66F?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=1a1510" alt="LinkedIn"/></a>
+<a href="https://x.com/maheshbiz_"><img src="https://img.shields.io/badge/Follow_on_X-3DD66F?style=for-the-badge&logo=x&logoColor=0d1117&labelColor=3DD66F&color=0d1117" alt="X"/></a>
+<a href="https://instagram.com/mahesh.biz"><img src="https://img.shields.io/badge/Follow_on_Instagram-3DD66F?style=for-the-badge&logo=instagram&logoColor=0d1117&labelColor=3DD66F&color=0d1117" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/maheshwarmurugesan/"><img src="https://img.shields.io/badge/Follow_on_LinkedIn-3DD66F?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=3DD66F&color=0d1117" alt="LinkedIn"/></a>
 
 <br/><br/>
 
@@ -28,7 +32,7 @@
 
 **CEO & Co-founder @ Effluent** — The Wastewater Intelligence Company. Building autonomous environmental compliance for water: SCADA → harmonized readings → signed DMR/SMR filing.
 
-B.S. CS + Finance, University of Michigan (Ross) · Lightyear (HF0), youngest affiliated founder.
+Computer Science + Finance, University of Michigan Ross School of Business. Selected by **Lightyear Residency** (incubated by HF0) for my first venture — youngest founder affiliated. **Susa Scout.** Wastewater researcher.
 
 **Now building** — Effluent's five-layer compliance pipeline · ml-biocompute-energy research lab.
 
