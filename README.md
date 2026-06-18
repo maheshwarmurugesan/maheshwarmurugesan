@@ -14,6 +14,14 @@
 
 <br/><br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake-dark.svg?v=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake.svg?v=4" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake-dark.svg?v=4" width="100%"/>
+</picture>
+
+<br/><br/>
+
 <img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/backed.png?v=1" alt="Backed by SV Angel, Susa Ventures, Browder Capital, Pareto Holdings, Superstate (Reid Cuming), HF0 · Lightyear" width="100%"/>
 
 </div>
@@ -55,19 +63,6 @@ B.S. CS + Finance, University of Michigan (Ross) · Lightyear (HF0), youngest af
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/recognition.png?v=2" alt="Recognition — IEEE NANO 2025, Nature Conference Tianjin, Stockholm Junior Water Prize, NC One Water Award, NCSEF, USPTO Provisional Patent, NC State SEM/AIF, RTNN Grant, Regeneron NCSEF" width="100%"/>
-
-</div>
-
-<br/>
-
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake-dark.svg?v=3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake.svg?v=3" />
-  <img alt="contributions, flushed" src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/output/snake-dark.svg?v=3" />
-</picture>
 
 </div>
 
