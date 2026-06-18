@@ -44,17 +44,6 @@ class MaheshwarMurugesan:
 
 <br/>
 
-## What I'm building
-
-| Domain | What it is |
-|---|---|
-| **Effluent** | Five-layer compliance pipeline: edge agent -> harmonized readings -> permit limits -> compliance state -> regulatory submission (NetDMR / CIWQS / signed PDF) |
-| **ML research** | Graph-deviation networks (GDN) + transformer reconstruction for explainable anomaly detection on water-CPS sensor streams |
-| **Biocomputation** | Biology-as-substrate: encoding, optimization, and modeling at the bio/compute boundary |
-| **Energy optimization** | Process-level efficiency — aeration / oxygen transfer, blower sizing, control-loop tuning |
-
-<br/>
-
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-1a1510?style=flat-square&logo=python&logoColor=3DD66F)
@@ -91,15 +80,6 @@ class MaheshwarMurugesan:
 
 <br/>
 
-## Process overview
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/process.png?v=1" alt="Process overview — Screening, Grit, Aeration, Secondary, Disinfection, Outfall" width="100%"/>
-
-</div>
-
-<br/>
 
 ## 💩
 
