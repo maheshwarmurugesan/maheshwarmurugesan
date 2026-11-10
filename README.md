@@ -16,6 +16,10 @@
 
 <sub><a href="https://x.com/maheshbiz_">X</a> · <a href="https://instagram.com/mahesh.biz">Instagram</a> · <a href="https://www.linkedin.com/in/maheshwarmurugesan/">LinkedIn</a></sub>
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/maheshwarmurugesan/maheshwarmurugesan/main/assets/plant.gif?v=1" alt="Pixel-art walkthrough of a wastewater treatment plant: flush, screening, grit, aeration, secondary clarifier, UV disinfection, outfall" width="100%"/>
+
 </div>
 
 <!-- profile-readme nudge -->
